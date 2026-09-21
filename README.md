@@ -1,1 +1,1 @@
-# front-end-3
+Projeto de desenvolvimento de um site sobre Fórmula 1, criado com HTML e CSS. O site apresenta diferentes categorias relacionadas ao automobilismo, incluindo carros, circuitos e pilotos, com páginas dedicadas a cada conteúdo. Também foram adicionados vídeos, imagens e elementos visuais para tornar a experiência mais organizada e atrativa. Durante o desenvolvimento, foram trabalhados conceitos de estruturação de páginas, organização de conteúdo, estilização e adaptação de elementos como imagens e vídeos ao layout do site.
